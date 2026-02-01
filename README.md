@@ -1,5 +1,19 @@
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/> Core Java Programs – 2026
-**🎓 Core Java Practice & Learning Repository**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/>
+</p>
+
+<h1 align="center">Core Java Programs – 2026</h1>
+
+<p align="center">
+  🎓 Core Java Practice & Learning Repository  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java"/>
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blue"/>
+  <img src="https://img.shields.io/badge/IDE-Eclipse-purple"/>
+  <img src="https://img.shields.io/badge/Status-Active-success"/>
+</p>
 
 ---
 
@@ -7,61 +21,65 @@
 
 This repository contains **Core Java programs** developed for **learning, practice, and academic preparation (2026)**.
 
-It focuses on strengthening **Java fundamentals**, understanding **object-oriented programming concepts**, and preparing students for **examinations, viva, and technical interviews**.
+It focuses on building a **strong foundation in Java**, covering everything from **basic syntax** to **object-oriented programming** and **real-world concepts**, making it suitable for:
+
+- College exams & viva  
+- Interview preparation  
+- Daily Java practice  
+- Beginner-friendly learning  
 
 ---
 
-## 📂 Topics Covered
+## 🧭 Learning Path (Easy → Advanced)
 
-The repository is organized in a **clear, topic-wise structure** for better understanding:
+The topics are arranged in a **logical learning sequence** to help learners progress step by step:
 
-- 🧩 **Basic Java Programs**
-- ➕ **Operators**
-- 🔁 **Control Statements**
-- 🔢 **Arrays**
-- 🔤 **String Handling**
-- 🔄 **Type Casting**
-- 🧠 **Object-Oriented Programming (OOPs)**
-- ⚠️ **Exception Handling**
-- 📁 **File Handling**
-- 📦 **Collection Framework**
-- 🧪 **Mini Projects**
-
-Each folder contains **well-structured `.java` source files** demonstrating the respective concepts with examples.
+1. 🧩 **Basic Java Programs**  
+2. ➕ **Operators**  
+3. 🔁 **Control Statements**  
+4. 🔢 **Arrays**  
+5. 🔤 **String Handling**  
+6. 🔄 **Type Casting**  
+7. 🧠 **Object-Oriented Programming (OOPs)**  
+8. ⚠️ **Exception Handling**  
+9. 📁 **File Handling**  
+10. 📦 **Collection Framework**  
+11. 🧪 **Mini Projects**
 
 ---
 
 ## 🛠 Technologies Used
 
-- **Programming Language:** Java  
-- **Java Version:** Core Java (JDK 8 or above)  
-- **IDE:** Eclipse IDE  
-- **Version Control:** Git & GitHub  
+| Technology | Details |
+|----------|--------|
+| Programming Language | Java |
+| Java Version | Core Java (JDK 8+) |
+| IDE | Eclipse IDE |
+| Version Control | Git & GitHub |
 
 ---
 
 ## 🎯 Purpose of This Repository
 
-- 📚 Academic learning and revision  
-- 🧠 Strong understanding of Core Java concepts  
-- 💼 Interview and placement preparation  
-- 📝 Reference material for beginners in Java  
+- 📚 Academic learning & structured revision  
+- 🧠 Concept clarity with hands-on coding  
+- 💼 Interview & placement readiness  
+- 📝 Reference material for Core Java learners  
 
 ---
 
-## 📁 Project Directory Structure
+## 📂 Repository Structure (Clickable)
 
-```bash
-Core-Java-Programs-2026
-├── Arrays
-├── BasicCode
-├── Collection
-├── ControlStatement
-├── ExceptionHandling
-├── FileHandling
-├── MiniProject
-├── OOPs
-├── Operators
-├── String
-├── TypeCasting
-└── README.md
+Each folder represents a **specific Core Java concept**:
+
+- 📁 [BasicCode](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/BasicCode)
+- 📁 [Operators](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/Operators)
+- 📁 [ControlStatement](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/ControlStatement)
+- 📁 [Arrays](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/Arrays)
+- 📁 [String](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/String)
+- 📁 [TypeCasting](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/TypeCasting)
+- 📁 [OOPs](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/OOPs)
+- 📁 [ExceptionHandling](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/ExceptionHandling)
+- 📁 [FileHandling](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/FileHandling)
+- 📁 [Collection](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/Collection)
+- 📁 [MiniProject](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/MiniProject)
