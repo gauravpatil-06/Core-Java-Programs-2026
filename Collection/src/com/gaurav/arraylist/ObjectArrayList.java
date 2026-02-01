@@ -1,10 +1,9 @@
-package com.gaurav.collection;
+package com.gaurav.arraylist;
 
 import java.util.ArrayList;
 
-public class ArrayListDemo 
+public class ObjectArrayList
 {
-
     public static void main(String[] args) 
     {
         // ArrayList using Object type (heterogeneous data)

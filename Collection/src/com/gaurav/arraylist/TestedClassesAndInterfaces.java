@@ -1,4 +1,4 @@
-package com.gaurav.collection;
+package com.gaurav.arraylist;
 
 import java.util.*;
 
