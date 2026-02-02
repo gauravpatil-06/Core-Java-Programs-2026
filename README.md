@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/>
-</p>a
+</p>
 
 <h1 align="center">Core Java Programs – 2026</h1>
 
