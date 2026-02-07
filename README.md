@@ -77,4 +77,3 @@ Each folder represents a **specific Core Java concept**:
 - 📁 [FileHandling](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/FileHandling)
 - 📁 [Collection](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/Collection)
 - 📁 [MiniProject](https://github.com/gauravpatil-06/Core-Java-Programs-2026/tree/main/MiniProject)
-- 
