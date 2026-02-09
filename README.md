@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/>
 </p>
 
-<h1 align="center">Core Java Programs – 2025</h1>
+<h1 align="center">Core Java Programs – 2026</h1>
 
 <p align="center">
   🎓 Core Java Practice & Learning Repository  
