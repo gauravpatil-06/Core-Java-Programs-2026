@@ -1,0 +1,35 @@
+
+-------------------------
+User ID        : 1
+Username       : gauravpatil
+Email          : gaurav@gmail.com
+Platform Name  : CoreJavaApp
+-------------------------
+
+-------------------------
+User ID        : 2
+Username       : vinodm
+Email          : vinod@gmail.com
+Platform Name  : CoreJavaApp
+-------------------------
+
+-------------------------
+User ID        : 3
+Username       : bhagyesh
+Email          : bhagyesh@gmail.com
+Platform Name  : CoreJavaApp
+-------------------------
+
+-------------------------
+User ID        : 4
+Username       : vikas
+Email          : vikas@gmail.com
+Platform Name  : CoreJavaApp
+-------------------------
+
+-------------------------
+User ID        : 5
+Username       : suraj
+Email          : suraj@gmail.com
+Platform Name  : CoreJavaApp
+-------------------------
