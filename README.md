@@ -25,21 +25,7 @@ It focuses on strengthening **Java fundamentals**, understanding **object-orient
 
 ---
 
-## 🧭 Learning Path (Easy → Advanced)
 
-The topics are arranged in a **logical learning sequence** to help learners progress step by step:
-
-1. 🧩 **Basic Java Programs**  
-2. ➕ **Operators**  
-3. 🔁 **Control Statements**  
-4. 🔢 **Arrays**  
-5. 🔤 **String Handling**  
-6. 🔄 **Type Casting**  
-7. 🧠 **Object-Oriented Programming (OOPs)**  
-8. ⚠️ **Exception Handling**  
-9. 📁 **File Handling**  
-10. 📦 **Collection Framework**  
-11. 🧪 **Mini Projects**
 
 ---
 
