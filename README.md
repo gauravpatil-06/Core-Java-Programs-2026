@@ -60,7 +60,7 @@ The topics are arranged in a **logical learning sequence** to help learners prog
 - 🧠 Strong understanding of Core Java concepts  
 - 💼 Interview and placement preparation  
 - 📝 Reference material for beginners in Java  
----
+
 
 ## 📂 Repository Structure
 
