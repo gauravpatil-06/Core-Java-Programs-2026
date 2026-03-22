@@ -8,12 +8,16 @@
   🎓 Core Java Practice & Learning Repository  
 </p>
 
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?logo=java"/>
   <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blue"/>
   <img src="https://img.shields.io/badge/IDE-Eclipse-purple"/>
   <img src="https://img.shields.io/badge/Status-Active-success"/>
 </p>
+
+---
 
 ## 📘 About This Repository
 
