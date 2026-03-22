@@ -15,15 +15,11 @@
   <img src="https://img.shields.io/badge/Status-Active-success"/>
 </p>
 
----
-
 ## 📘 About This Repository
 
 This repository contains **Core Java programs** developed for **learning, practice, and academic preparation (2026)**.
 
 It focuses on strengthening **Java fundamentals**, understanding **object-oriented programming concepts**, and preparing students for **examinations, viva, and technical interviews**.
-
----
 
 ## 🧭 Learning Path (Easy → Advanced)
 
