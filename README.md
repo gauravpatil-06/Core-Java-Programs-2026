@@ -7,18 +7,14 @@
 <p align="center">
   🎓 Core Java Practice & Learning Repository  
 </p>
-
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?logo=java"/>
   <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blue"/>
   <img src="https://img.shields.io/badge/IDE-Eclipse-purple"/>
   <img src="https://img.shields.io/badge/Status-Active-success"/>
 </p>
-
 ---
-
 ## 📘 About This Repository
 
 This repository contains **Core Java programs** developed for **learning, practice, and academic preparation (2026)**.
@@ -40,9 +36,7 @@ The topics are arranged in a **logical learning sequence** to help learners prog
 9. 📁 **File Handling**  
 10. 📦 **Collection Framework**  
 11. 🧪 **Mini Projects**
-
 ---
-
 ## 🛠 Technologies Used
 
 | Technology | Details |
